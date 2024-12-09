@@ -1,4 +1,4 @@
-# Perplexity.ai 详解
+# Perplexity.ai
 
 这是一个 **API 封装器和账号生成工具**，它可以通过免费使用的 Copilot 账户，提供简单的 API 接口。
 
